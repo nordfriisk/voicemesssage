@@ -17,7 +17,7 @@ The following settings are loaded from the `.env` file:
 
 ### Required Variables
 
-- **PHONE_NUMBER**: Destination phone number in E.164 format (e.g., `+41789402218`)
+- **PHONE_NUMBER**: Destination phone number in E.164 format (e.g., `+41XXXXXXXX`)
 - **MESSAGE**: Text to be spoken by the voice message (will be spoken in English)
 - **DEFAULT_VOICE**: Kokoro voice name (default: `bf_emma`, British female voice)
 
