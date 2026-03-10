@@ -1,0 +1,50 @@
+# Environment variables (sensitive!)
+.env
+test/.env
+
+
+# Logs
+logs/
+
+# Audio files
+audio/
+
+# Model downloads and cached models
+models/
+kokoro-v1.0.onnx
+voices.bin
+
+# Temporary files and directories
+tmp/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Virtual environments
+.venv/
+venv/
+
+# Distribution / packaging
+dist/
+*.egg-info/
+*.egg
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# macOS
+.DS_Store
+
+# Jupyter
+.ipynb
+
+# Test files
+test_*.wav
+test_*.mp3
+
